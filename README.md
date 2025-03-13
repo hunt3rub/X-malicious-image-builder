@@ -18,10 +18,10 @@ see a picture with png format and two hidden picture.
 > you must open port 4242 in firewall and have static ip.
 
 ### 4- send zip folder to Victim:
-after open PNG file you can access to victim and exec command!
+after open PNG file you can access to victim and exec command! 😄
 
 ## customized shellcode:
 open shellcode.py and set your custom payload with obfuscate.<br/>
 
-### for free gaza<br/>
+### for free gaza ❤️<br/>
 telegram channel: https://t.me/our_leaks
