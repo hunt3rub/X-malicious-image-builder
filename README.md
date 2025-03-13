@@ -1,4 +1,4 @@
-# X-image-malware
+# X-malicious-image-builder
 png malware for initial access and open rev sockets
 
 ## installation
@@ -21,7 +21,7 @@ see a picture with png format and two hidden picture.
 after open PNG file you can access to victim and exec command!
 
 ## customized shellcode:
-open shellcode.py and set your custom payload with obfuscate.
+open shellcode.py and set your custom payload with obfuscate.<br/>
 
-for free gaza
-telegram channel: https://t.me/@our_leaks
+### for free gaza<br/>
+telegram channel: https://t.me/our_leaks
