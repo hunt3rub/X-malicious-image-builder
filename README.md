@@ -3,7 +3,7 @@ png malware for initial access and open rev sockets
 
 ## installation
 `git clone https://github.com/hunt3rub/X-image-malware.git`<br/>
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ## how to build PNG malware?
 ### 1- build malicious PNG picture:
